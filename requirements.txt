@@ -2,3 +2,11 @@ phidata==2.3.90
 pydantic==2.7.1
 streamlit==1.29.0
 torch
+omegaconf~=2.3.0
+torch~=2.1.0
+tqdm
+einops
+vector_quantize_pytorch
+transformers~=4.41.1
+vocos
+IPython
