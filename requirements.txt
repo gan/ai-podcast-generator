@@ -1,0 +1,4 @@
+phidata==2.3.90
+pydantic==2.7.1
+streamlit==1.29.0
+torch
